@@ -10,6 +10,12 @@
             "last_name": "Rios",
             "age": 25,
             "city": "Cuajimalpad"
+        },
+        {
+            "name": "Carlos",
+            "last_name": "Andrade",
+            "age": 26,
+            "city": "Cuajimalpa"
         }
 
     ]
