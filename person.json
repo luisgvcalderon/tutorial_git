@@ -1,6 +1,16 @@
 {
-    "name": "Luis",
-    "last_name": "Calderon",
-    "age": 26,
-    "city": "Toluca"
+    "team": [
+        {"name": "Luis",
+        "last_name": "Calderon",
+        "age": 26,
+        "city": "Toluca"
+        },
+        {
+            "name": "Cesar",
+            "last_name": "Rios",
+            "age": 25,
+            "city": "Cuajimalpad"
+        }
+
+    ]
 }
